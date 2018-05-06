@@ -1,5 +1,6 @@
 This project is useful for detecting which state the vehicle is from.
--- To DO : 
+
+-- TO DO : 
 1) Build it
 2) Optimise it
 3) Perfect it
