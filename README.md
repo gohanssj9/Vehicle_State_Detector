@@ -16,4 +16,4 @@ First task, Read Python for Data Analysis book and get started as soon as
 possible
 (License Plate Detection, combined with some naming :P)
 
-Author : Sriteja Ayyagari
+Author : **Sriteja Ayyagari**
