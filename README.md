@@ -10,9 +10,10 @@ This project is useful for detecting which state the vehicle is from.
 7) Share it as a Deep Learning app
 8) Show it as an example
 
-Do not get overwhelmed by the tasks, we will do it one by one in this month,
-along with Steve Jobs book and Elon Musk book.
+Do not get overwhelmed by the tasks, we will do it one by one in this month.
 
 First task, Read Python for Data Analysis book and get started as soon as
 possible
 (License Plate Detection, combined with some naming :P)
+
+Author : Sriteja Ayyagari
